@@ -3,7 +3,7 @@
 /.classpath
 /.project
 /*.bak
-/*.launch
+/*.lacunch
 /*.lock
 proxies
 /.gradle
