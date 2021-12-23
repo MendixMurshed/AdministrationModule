@@ -1,0 +1,12 @@
+/deployment
+/javasource/com/mendix/core
+/javasource/system
+/releases
+/.classpath
+/.project
+/*.bak
+/*.launch
+/*.lock
+proxies
+/.gradle
+/.settings
